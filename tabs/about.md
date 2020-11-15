@@ -8,4 +8,5 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> Mi nombre es David Pascual.
+Este es un trabajo correspondiente a la primera actividad de la asignatura "Desarrollo de aplicaciones en red" del Grado en Ingeniería Informática de la UNIR
